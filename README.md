@@ -1,4 +1,5 @@
-Hi 👋, I'm Michał, a web 🌐 and game developer 🎮
+Hi 👋   
+I'm Michał, a web 🌐 and game developer 🎮
 
 📖 I offer 1 on 1 JavaScript/web dev/front-end lessons -> [email me](mailto:mterczynski1@gmail.com) if you're interested  
 📘 I'm interested in: TypeScript, React, 🎮 game development, 🌐 web development, Node.js  
