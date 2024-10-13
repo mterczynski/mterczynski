@@ -1,8 +1,6 @@
 Hi 👋   
 I'm Michał, a web and game developer 
 
-
-
 📖 I offer 1 on 1 JavaScript/web dev/front-end lessons  
 📘 I'm interested in: Machine learning, TypeScript, React, 🎮Game development, 🌐Web development, Node.js  
 📫 How to reach me: 
