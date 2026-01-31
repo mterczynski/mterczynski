@@ -9,7 +9,9 @@ I'm Michał, a web and game developer
 
 Certificates I've acquired:
 
-<img src="./aws-certified-cloud-practitioner.png" width=120/>
- 
+<div>
+  <img src="./aws-certified-cloud-practitioner.png" width=120/>
+  <img src="./certified-ai-practicioner.webp" width=120/>
+</div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
 
