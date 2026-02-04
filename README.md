@@ -12,6 +12,7 @@ Certificates I've acquired:
 <div>
   <img src="./aws-certified-cloud-practitioner.png" width=120/>
   <img src="./certified-ai-practicioner.webp" width=120/>
+  <img src="./microsoft-certified-fundamentals-badge.svg" width=120/>
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
 
