@@ -1,5 +1,5 @@
 Hi 👋   
-I'm Michał, a web, cloud and game developer 
+I'm Michał, a developer specializing in web, cloud and game development.
 
 📫 How to reach me: 
   - you can send an email to [mterczynski1@gmail.com](mailto:mterczynski1@gmail.com)
