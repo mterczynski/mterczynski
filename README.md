@@ -10,9 +10,9 @@ I'm Michał, a web and game developer
 Certificates I've acquired:
 
 <div>
-  <img src="./aws-certified-cloud-practitioner.png" width=120/>
-  <img src="./certified-ai-practicioner.webp" width=120/>
-  <img src="./microsoft-certified-fundamentals-badge.svg" width=120/>
+  <img src="./aws-certified-cloud-practitioner.png" width=120 alt="AWS Certified Cloud Practitioner certification badge" title="AWS Certified Cloud Practitioner"/>
+  <img src="./certified-ai-practicioner.webp" width=120 alt="Certified AI Practitioner certification badge" title="Certified AI Practitioner"/>
+  <img src="./microsoft-certified-fundamentals-badge.svg" width=120 alt="Microsoft Certified: Azure Fundamentals certification badge" title="Microsoft Certified: Azure Fundamentals"/>
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
 
