@@ -13,6 +13,7 @@ Certificates I've acquired:
   <img src="./aws-certified-cloud-practitioner.png" width=120 alt="AWS Certified Cloud Practitioner certification badge" title="AWS Certified Cloud Practitioner"/>
   <img src="./certified-ai-practicioner.webp" width=120 alt="AWS Certified AI Practitioner certification badge" title="AWS Certified AI Practitioner"/>
   <img src="./microsoft-certified-fundamentals-badge.svg" width=120 alt="Microsoft Certified: Azure Fundamentals certification badge" title="Microsoft Certified: Azure Fundamentals"/>
+  <img src="./gcp-generative-ai-leader.webp" width=120 alt="Google Cloud Certified: Generative AI Leader" title="Google Cloud Certified: Generative AI Leader"/>
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
 
