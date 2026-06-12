@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "bbox": [14.12, 49.00, 24.15, 54.84],
   "features": [
     {
       "type": "Feature",
