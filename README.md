@@ -7,6 +7,10 @@ I'm Michał, a developer specializing in web, cloud and game development.
   
 📱 Website with my projects: [www.mter.pl](http://www.mter.pl)
 
+[📍 Find me on the map!](./location/location.geojson)
+
+---
+
 Certificates I've acquired:
 
 <div>
@@ -16,4 +20,3 @@ Certificates I've acquired:
   <img src="./gcp-generative-ai-leader.webp" width=120 alt="Google Cloud Certified: Generative AI Leader" title="Google Cloud Certified: Generative AI Leader"/>
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
-
