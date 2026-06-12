@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.940012, 50.059841]
+      },
+      "properties": {
+        "name": "Kraków, Poland"
+      }
+    }
+  ]
+}
