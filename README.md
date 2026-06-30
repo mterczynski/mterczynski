@@ -7,7 +7,7 @@ I'm Michał, a developer specializing in web, cloud and game development.
   
 📱 Website with my projects: [www.mter.pl](http://www.mter.pl)
 
-[📍 Find me on the map!](./location/network.json)
+[📍 Find me on the map! (city I work in](./location/network.json)
 
 ---
 
