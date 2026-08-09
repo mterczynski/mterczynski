@@ -1,5 +1,5 @@
-Hi 👋   
-I'm Michał, a developer specializing in web, cloud and game development.
+Hello 👋   
+My name is Michał, I am a developer specializing in web, cloud and game development.
 
 📫 How to reach me: 
   - you can send an email to [mterczynski1@gmail.com](mailto:mterczynski1@gmail.com)
@@ -11,7 +11,7 @@ I'm Michał, a developer specializing in web, cloud and game development.
 
 ---
 
-Certificates I've acquired:
+Certificates I have achieved:
 
 <div>
   <img src="./aws-certified-cloud-practitioner.png" width=120 alt="AWS Certified Cloud Practitioner certification badge" title="AWS Certified Cloud Practitioner"/>
