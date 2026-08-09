@@ -19,6 +19,6 @@ Certificates I've acquired:
   <img src="./microsoft-certified-fundamentals-badge.svg" width=120 alt="Microsoft Certified: Azure Fundamentals certification badge" title="Microsoft Certified: Azure Fundamentals"/>
   <img src="./gcp-generative-ai-leader.webp" width=120 alt="Google Cloud Certified: Generative AI Leader" title="Google Cloud Certified: Generative AI Leader"/>
   <img src="./ccaf.png" width=120 alt="Claude Certified Architect - Foundations" title="Claude Certified Architect - Foundations"/>
-  <img src="./terraform-badge-mini-associate.svg" width=120 alt="HashiCorp Certified Terraform Associate (004)" title="HashiCorp Certified Terraform Associate (004)"/>
+  <img src="./tf-associate-big.png" width=120 alt="HashiCorp Certified Terraform Associate (004)" title="HashiCorp Certified Terraform Associate (004)"/>
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mterczynski&layout=compact) -->
